@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Classpath, handle this on your machine - only need JDBC
+.classpath
+
 # Log file
 *.log
 
