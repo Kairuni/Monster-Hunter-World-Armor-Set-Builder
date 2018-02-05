@@ -118,7 +118,12 @@ public class Application {
 		
 		System.out.println("Batch build complete, building query");
 		
-		String query = "select distinct hws.name as [Helm], tws.name as [Armor], aws.name as [Bracers], wws.name as [Belt], lws.name as [Greaves],\n" + 
+		String query = "select distinct" + 
+				" hws.id as [HeadID], hws.name as [Head]," +
+				" tws.id as [BodyID], tws.name as [Body]," + 
+				" aws.id as [ArmsID], aws.name as [Arms]," + 
+				" wws.id as [WaistID], wws.name as [Waist]," + 
+				" lws.id as [LegsID], lws.name as [Legs],\n" + 
 				" hws.Slot_1 + tws.Slot_1 + aws.Slot_1 + wws.Slot_1 + lws.Slot_1 as [Level 1 Slot Count],\n" + 
 				" hws.Slot_2 + tws.Slot_2 + aws.Slot_2 + wws.Slot_2 + lws.Slot_2 as [Level 2 Slot Count],\n" + 
 				" hws.Slot_3 + tws.Slot_3 + aws.Slot_3 + wws.Slot_3 + lws.Slot_3 as [Level 3 Slot Count],\n" + 
@@ -173,11 +178,11 @@ public class Application {
 			ResultSet res = stmt.executeQuery(query);
 			
 			while(res.next()) {
-				System.out.println(res.getString("Helm"));
-				System.out.println(res.getString("Armor"));
-				System.out.println(res.getString("Bracers"));
-				System.out.println(res.getString("Belt"));
-				System.out.println(res.getString("Greaves"));
+				System.out.println(res.getString("Head"));
+				System.out.println(res.getString("Body"));
+				System.out.println(res.getString("Arms"));
+				System.out.println(res.getString("Waist"));
+				System.out.println(res.getString("Legs"));
 				System.out.println();
 			}
 			
