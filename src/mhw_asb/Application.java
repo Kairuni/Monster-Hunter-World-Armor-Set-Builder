@@ -6,17 +6,18 @@
 
 package mhw_asb;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
 import java.util.regex.MatchResult;
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class Application {
 	public static String buildQuery(Statement stmt) throws SQLException {
@@ -179,20 +180,24 @@ public class Application {
 			
 			ResultSet res = stmt.executeQuery(query);
 			
+			List<ArmorSet> armorSets = new ArrayList<>();
+			
 			int count = 0;
 			while(res.next()) {
+				StringBuilder armorBuilder = new StringBuilder();
 				count++;
-				System.out.print("Set " + count + ": ");
-				System.out.print(res.getString("Head"));
-				System.out.print(", ");
-				System.out.print(res.getString("Body"));
-				System.out.print(", ");
-				System.out.print(res.getString("Arms"));
-				System.out.print(", ");
-				System.out.print(res.getString("Waist"));
-				System.out.print(", ");
-				System.out.print(res.getString("Legs"));
-				System.out.println();
+				armorBuilder.append("Set " + count + ": ");
+				armorBuilder.append(res.getString("Head"));
+				armorBuilder.append(", ");
+				armorBuilder.append(res.getString("Body"));
+				armorBuilder.append(", ");
+				armorBuilder.append(res.getString("Arms"));
+				armorBuilder.append(", ");
+				armorBuilder.append(res.getString("Waist"));
+				armorBuilder.append(", ");
+				armorBuilder.append(res.getString("Legs"));
+				
+
 				
 				List<Integer> EIDs = new ArrayList<>();
 				EIDs.add(res.getInt("HeadID"));
@@ -200,36 +205,32 @@ public class Application {
 				EIDs.add(res.getInt("ArmsID"));
 				EIDs.add(res.getInt("WaistID"));
 				EIDs.add(res.getInt("LegsID"));
-				Map<String, Integer> skillToLevel = new HashMap<>();
-				for (int entry : EIDs) {
-					String skillQuery = "select S.Name, ES.Level from EquipmentSkills as ES inner join Skills as S on S.ID == ES.SID where ES.EID == " + entry;
-					ResultSet skillRes = stmt.executeQuery(skillQuery);
-					while (skillRes.next()) {
-						String name = skillRes.getString("Name");
-						int level = skillRes.getInt("Level");
-						if (skillToLevel.get(name) != null)
-							skillToLevel.put(name, skillToLevel.get(name) + level);
-						else
-							skillToLevel.put(name, level);
-					}
+				
+				armorSets.add(new ArmorSet(EIDs, armorBuilder.toString()));
+
+				if (count > 100) {
+					System.out.println("MORE THAN 100 ARMOR SETS, PRINTING WHAT WE HAVE");
+					break;
 				}
-				System.out.print("Total Skills: ");
-				boolean first = true;
-				for (String key : skillToLevel.keySet()) {
-					if (!first)
-						System.out.print(", ");
-					first = false;
-					System.out.print(key + " " + skillToLevel.get(key));
-				}
-				System.out.println();			
-				System.out.println();			
 			}
+			BufferedWriter writer = new BufferedWriter(new FileWriter("ArmorSets.txt"));
+			for (ArmorSet set : armorSets) {
+				set.buildSkillLine(stmt);
+				System.out.println(set.getEquipmentLine());
+				System.out.println(set.getSkillLine());
+				writer.write(set.getEquipmentLine() + "\n");
+				writer.write(set.getSkillLine() + "\n");
+			}
+			writer.close();
 			
 			
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} finally {         

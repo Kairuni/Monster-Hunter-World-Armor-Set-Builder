@@ -1,0 +1,202 @@
+Set 1: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Speed Sharpening 1, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 2: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Speed Sharpening 1, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 3: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Speed Sharpening 1, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 4: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Speed Sharpening 1, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 5: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Beta, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 6: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Beta, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 7: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Beta, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 8: Rathalos Helm, Dober Mail Alpha, Damascus Vambraces Beta, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 9: Rathalos Helm, Dober Mail Alpha, Kushala Grip Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Evade Window 2, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 10: Rathalos Helm, Dober Mail Alpha, Kushala Grip Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Evade Window 2, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 11: Rathalos Helm, Dober Mail Alpha, Kushala Grip Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Evade Window 2, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 12: Rathalos Helm, Dober Mail Alpha, Kushala Grip Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Evade Window 2, Attack Boost 5, Mushroomancer 1, Handicraft 3
+Set 13: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 14: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 15: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 16: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 17: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Beta, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Attack Boost 5, Handicraft 3
+Set 18: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Beta, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Attack Boost 5, Handicraft 3
+Set 19: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Beta, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Attack Boost 5, Handicraft 3
+Set 20: Rathalos Helm, Dober Mail Beta, Damascus Vambraces Beta, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Attack Boost 5, Handicraft 3
+Set 21: Rathalos Helm, Dober Mail Beta, Kushala Grip Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Evade Window 2, Attack Boost 5, Handicraft 3
+Set 22: Rathalos Helm, Dober Mail Beta, Kushala Grip Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Evade Window 2, Attack Boost 5, Handicraft 3
+Set 23: Rathalos Helm, Dober Mail Beta, Kushala Grip Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Evade Window 2, Attack Boost 5, Handicraft 3
+Set 24: Rathalos Helm, Dober Mail Beta, Kushala Grip Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Evade Window 2, Attack Boost 5, Handicraft 3
+Set 25: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Speed Sharpening 1, Focus 1, Attack Boost 5, Handicraft 3
+Set 26: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Speed Sharpening 1, Focus 1, Attack Boost 5, Handicraft 3
+Set 27: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Speed Sharpening 1, Focus 1, Attack Boost 5, Handicraft 3
+Set 28: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Speed Sharpening 1, Focus 1, Attack Boost 5, Handicraft 3
+Set 29: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Beta, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Focus 1, Attack Boost 5, Handicraft 3
+Set 30: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Beta, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Focus 1, Attack Boost 5, Handicraft 3
+Set 31: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Beta, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Focus 1, Attack Boost 5, Handicraft 3
+Set 32: Rathalos Helm, Kushala Cista Alpha, Damascus Vambraces Beta, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Focus 1, Attack Boost 5, Handicraft 3
+Set 33: Rathalos Helm, Kushala Cista Alpha, Kushala Grip Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Evade Window 2, Focus 1, Attack Boost 5, Handicraft 3
+Set 34: Rathalos Helm, Kushala Cista Alpha, Kushala Grip Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Evade Window 2, Focus 1, Attack Boost 5, Handicraft 3
+Set 35: Rathalos Helm, Kushala Cista Alpha, Kushala Grip Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Evade Window 2, Focus 1, Attack Boost 5, Handicraft 3
+Set 36: Rathalos Helm, Kushala Cista Alpha, Kushala Grip Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Evade Window 2, Focus 1, Attack Boost 5, Handicraft 3
+Set 37: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 38: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 39: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 40: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Speed Sharpening 1, Attack Boost 5, Handicraft 3
+Set 41: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Beta, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Attack Boost 5, Handicraft 3
+Set 42: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Beta, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Attack Boost 5, Handicraft 3
+Set 43: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Beta, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Attack Boost 5, Handicraft 3
+Set 44: Rathalos Helm, Kushala Cista Beta, Damascus Vambraces Beta, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Attack Boost 5, Handicraft 3
+Set 45: Rathalos Helm, Kushala Cista Beta, Kushala Grip Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Evade Window 2, Attack Boost 5, Handicraft 3
+Set 46: Rathalos Helm, Kushala Cista Beta, Kushala Grip Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Evade Window 2, Attack Boost 5, Handicraft 3
+Set 47: Rathalos Helm, Kushala Cista Beta, Kushala Grip Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Evade Window 2, Attack Boost 5, Handicraft 3
+Set 48: Rathalos Helm, Kushala Cista Beta, Kushala Grip Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Evade Window 2, Attack Boost 5, Handicraft 3
+Set 49: Zorah Headgear Alpha, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 50: Zorah Headgear Alpha, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 51: Zorah Headgear Alpha, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 52: Zorah Headgear Alpha, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 53: Zorah Headgear Alpha, Dober Mail Alpha, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 54: Zorah Headgear Alpha, Dober Mail Alpha, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 55: Zorah Headgear Alpha, Dober Mail Alpha, Rathalos Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 56: Zorah Headgear Alpha, Dober Mail Alpha, Rathalos Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 57: Zorah Headgear Alpha, Dober Mail Alpha, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 58: Zorah Headgear Alpha, Dober Mail Alpha, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 59: Zorah Headgear Alpha, Dober Mail Alpha, Nergigante Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 60: Zorah Headgear Alpha, Dober Mail Alpha, Nergigante Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1, Mushroomancer 1
+Set 61: Zorah Headgear Alpha, Dober Mail Beta, Bone Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 62: Zorah Headgear Alpha, Dober Mail Beta, Bone Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 63: Zorah Headgear Alpha, Dober Mail Beta, Bone Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 64: Zorah Headgear Alpha, Dober Mail Beta, Bone Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 65: Zorah Headgear Alpha, Dober Mail Beta, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 66: Zorah Headgear Alpha, Dober Mail Beta, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 67: Zorah Headgear Alpha, Dober Mail Beta, Rathalos Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 68: Zorah Headgear Alpha, Dober Mail Beta, Rathalos Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 69: Zorah Headgear Alpha, Dober Mail Beta, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 70: Zorah Headgear Alpha, Dober Mail Beta, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 71: Zorah Headgear Alpha, Dober Mail Beta, Nergigante Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 72: Zorah Headgear Alpha, Dober Mail Beta, Nergigante Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 73: Zorah Headgear Alpha, Kushala Cista Alpha, Bone Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Focus 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 74: Zorah Headgear Alpha, Kushala Cista Alpha, Bone Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Focus 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 75: Zorah Headgear Alpha, Kushala Cista Alpha, Bone Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Focus 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 76: Zorah Headgear Alpha, Kushala Cista Alpha, Bone Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Focus 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 77: Zorah Headgear Alpha, Kushala Cista Alpha, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Focus 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 78: Zorah Headgear Alpha, Kushala Cista Alpha, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Focus 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 79: Zorah Headgear Alpha, Kushala Cista Alpha, Rathalos Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Focus 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 80: Zorah Headgear Alpha, Kushala Cista Alpha, Rathalos Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Focus 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 81: Zorah Headgear Alpha, Kushala Cista Alpha, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Focus 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 82: Zorah Headgear Alpha, Kushala Cista Alpha, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Focus 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 83: Zorah Headgear Alpha, Kushala Cista Alpha, Nergigante Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Focus 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 84: Zorah Headgear Alpha, Kushala Cista Alpha, Nergigante Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Focus 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 85: Zorah Headgear Alpha, Kushala Cista Beta, Bone Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 86: Zorah Headgear Alpha, Kushala Cista Beta, Bone Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 87: Zorah Headgear Alpha, Kushala Cista Beta, Bone Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 88: Zorah Headgear Alpha, Kushala Cista Beta, Bone Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Slugger 1, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 89: Zorah Headgear Alpha, Kushala Cista Beta, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 90: Zorah Headgear Alpha, Kushala Cista Beta, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 91: Zorah Headgear Alpha, Kushala Cista Beta, Rathalos Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 92: Zorah Headgear Alpha, Kushala Cista Beta, Rathalos Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Fire Resistance 2, Attack Boost 5, Handicraft 3, Blast Attack 1
+Set 93: Zorah Headgear Alpha, Kushala Cista Beta, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Alpha
+Total Skills: Stamina Surge 2, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 94: Zorah Headgear Alpha, Kushala Cista Beta, Nergigante Vambraces Alpha, Nergigante Coil Alpha, Dober Greaves Beta
+Total Skills: Stamina Surge 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 95: Zorah Headgear Alpha, Kushala Cista Beta, Nergigante Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Alpha
+Total Skills: Stamina Surge 1, Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 96: Zorah Headgear Alpha, Kushala Cista Beta, Nergigante Vambraces Alpha, Nergigante Coil Beta, Dober Greaves Beta
+Total Skills: Attack Boost 5, Agitator 2, Handicraft 3, Blast Attack 1
+Set 97: Zorah Headgear Beta, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Mushroomancer 1
+Set 98: Zorah Headgear Beta, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Beta
+Total Skills: Stamina Surge 1, Slugger 1, Attack Boost 5, Handicraft 3, Mushroomancer 1
+Set 99: Zorah Headgear Beta, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Slugger 1, Attack Boost 5, Handicraft 3, Mushroomancer 1
+Set 100: Zorah Headgear Beta, Dober Mail Alpha, Bone Vambraces Alpha, Nergigante Coil Beta, Death Stench Heel Beta
+Total Skills: Slugger 1, Attack Boost 5, Handicraft 3, Mushroomancer 1
+Set 101: Zorah Headgear Beta, Dober Mail Alpha, Rathalos Vambraces Alpha, Nergigante Coil Alpha, Death Stench Heel Alpha
+Total Skills: Dragon Attack 2, Stamina Surge 1, Fire Resistance 2, Attack Boost 5, Handicraft 3, Mushroomancer 1
