@@ -12,9 +12,11 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.regex.MatchResult;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Application {
 	public static String buildQuery(Statement stmt) throws SQLException {
@@ -177,13 +179,50 @@ public class Application {
 			
 			ResultSet res = stmt.executeQuery(query);
 			
+			int count = 0;
 			while(res.next()) {
-				System.out.println(res.getString("Head"));
-				System.out.println(res.getString("Body"));
-				System.out.println(res.getString("Arms"));
-				System.out.println(res.getString("Waist"));
-				System.out.println(res.getString("Legs"));
+				count++;
+				System.out.print("Set " + count + ": ");
+				System.out.print(res.getString("Head"));
+				System.out.print(", ");
+				System.out.print(res.getString("Body"));
+				System.out.print(", ");
+				System.out.print(res.getString("Arms"));
+				System.out.print(", ");
+				System.out.print(res.getString("Waist"));
+				System.out.print(", ");
+				System.out.print(res.getString("Legs"));
 				System.out.println();
+				
+				List<Integer> EIDs = new ArrayList<>();
+				EIDs.add(res.getInt("HeadID"));
+				EIDs.add(res.getInt("BodyID"));
+				EIDs.add(res.getInt("ArmsID"));
+				EIDs.add(res.getInt("WaistID"));
+				EIDs.add(res.getInt("LegsID"));
+				Map<String, Integer> skillToLevel = new HashMap<>();
+				for (int entry : EIDs) {
+					String skillQuery = "select S.Name, ES.Level from EquipmentSkills as ES inner join Skills as S on S.ID == ES.SID where ES.EID == " + entry;
+					ResultSet skillRes = stmt.executeQuery(skillQuery);
+					while (skillRes.next()) {
+						String name = skillRes.getString("Name");
+						int level = skillRes.getInt("Level");
+						if (skillToLevel.get(name) != null)
+							skillToLevel.put(name, skillToLevel.get(name) + level);
+						else
+							skillToLevel.put(name, level);
+					}
+				}
+				System.out.print("Total Skills: ");
+				boolean first = true;
+				for (String key : skillToLevel.keySet()) {
+					if (!first)
+						System.out.print(", ");
+					first = false;
+					System.out.print(key + " " + skillToLevel.get(key));
+				}
+				System.out.println();			
+				System.out.println();			
 			}
 			
 			
